@@ -37,14 +37,6 @@ Projeto aplicando herança, polimorfismo e abstração
 Sistema para controle de clientes e serviços  
 🔗 https://github.com/marcosdoria-dev/Sistema-SO-SQL
 
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosdoria-dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdoria-dev&layout=compact&theme=radical)
-
 
 ---
 

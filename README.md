@@ -45,6 +45,7 @@ Sistema para controle de clientes e serviços
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdoria-dev&layout=compact&theme=radical)
 
+
 ---
 
 ## 🎯 Objetivo
@@ -55,5 +56,6 @@ Buscando minha primeira oportunidade como desenvolvedor Back-end para aplicar me
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-doria-6bb2a0267)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Doria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-doria-6bb2a0267)
+``
 

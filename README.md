@@ -43,3 +43,17 @@ Sistema para controle de clientes e serviços
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosdoria-dev&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdoria-dev&layout=compact&theme=radical)
+
+---
+
+## 🎯 Objetivo
+
+Buscando minha primeira oportunidade como desenvolvedor Back-end para aplicar meus conhecimentos em Python e construção de APIs.
+
+---
+
+## 📫 Contato
+
+🔗 https://www.linkedin.com/in/marcos-doria-6bb2a0267
+

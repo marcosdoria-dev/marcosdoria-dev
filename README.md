@@ -35,8 +35,7 @@ Projeto aplicando herança, polimorfismo e abstração
 
 ### 🗄️ Sistema SQL
 Sistema para controle de clientes e serviços  
-🔗 https://github.com/marcosdoria-dev/Sistema-SO-SQL
-
+🔗 https://github.com/marcosdoria-dev/Sistema-OS-SQL
 
 ---
 

@@ -37,10 +37,9 @@ Projeto aplicando herança, polimorfismo e abstração
 Sistema para controle de clientes e serviços  
 🔗 https://github.com/marcosdoria-dev/Sistema-OS-SQL
 
-📚 **Fundamentos do HTML (NotebookLM)**
-
-Caderno temático sobre conceitos e fundamentos do HTML desenvolvido para o desafio de projeto da DIO.
-🔗 [https://github.com/marcosdoria-dev/desafio-dio-notebooklm](https://github.com/marcosdoria-dev/desafio-dio-notebooklm)
+### 📚 Fundamentos do HTML (NotebookLM)
+Caderno temático sobre conceitos e fundamentos do HTML desenvolvido para o desafio de projeto da DIO.  
+🔗 https://github.com/marcosdoria-dev/desafio-dio-notebooklm
 ---
 
 ## 🎯 Objetivo

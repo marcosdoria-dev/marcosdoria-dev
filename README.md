@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **Uninter**
-- 💼 Atuando como Estagiário de Tecnologia e Projetos na **mBRF** (trabalhando com SAP, ABAP e ServiceNow)
+- 💼 Atuando como Estagiário de Tecnologia e Projetos na **MBRF** (trabalhando com SAP, ABAP e ServiceNow)
 - 💻 Desenvolvendo soluções com foco em **Python, Java, MySQL e POO**
 - ⚙️ Explorando ferramentas de dados e automação como **Power BI, n8n e Pandas**
 - 🌱 Sempre em busca de evolução e de aplicar boas práticas de desenvolvimento e clean code

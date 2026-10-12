@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Olá, eu sou o Marcos Doria! 👋</h2>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007EC6&width=435&lines=Desenvolvedor+Back-end;Estudante+de+ADS+na+Uninter;Focado+em+Python,+Java+e+SQL;Entusiasta+em+Automação+e+Dados" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=007EC6&width=435&lines=Desenvolvedor+Back-end;Estudante+de+ADS+na+Uninter;Focado+em+Python,+Java+e+SQL;Entusiasta+em+Automacao+e+Dados" alt="Typing SVG" />
   </a>
 </div>
 
@@ -40,8 +40,7 @@
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github.com/anuraghazra/github-readme-stats/actions/workflows/main.yml/badge.svg"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosdoria-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosdoria-dev&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdoria-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 

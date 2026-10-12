@@ -44,8 +44,6 @@
 
 ## 📂 Projetos em destaque
 
-*Nota: Se preferir, você pode apagar esta seção do código e usar a funcionalidade nativa de "Pinned Repositories" do próprio GitHub logo abaixo da sua bio, fica ainda mais profissional!*
-
 - 🛒 **[Lista de Compras em Python](https://github.com/marcosdoria-dev/lista_compras_python):** Aplicação para gerenciamento de listas com validação de dados.
 - ☕ **[Sistema em Java (POO)](https://github.com/marcosdoria-dev/Cofrinho-Java--OOP-):** Projeto aplicando herança, polimorfismo e abstração.
 - 🗄️ **[Sistema SQL](https://github.com/marcosdoria-dev/Sistema-OS-SQL):** Sistema para controle de clientes e ordens de serviços.

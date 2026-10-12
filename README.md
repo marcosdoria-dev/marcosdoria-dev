@@ -1,8 +1,6 @@
 <div align="center">
   <h2>Olá, eu sou o Marcos Doria! 👋</h2>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=007EC6&width=435&lines=Desenvolvedor+Back-end;Estudante+de+ADS+na+Uninter;Focado+em+Python,+Java+e+SQL;Entusiasta+em+Automacao+e+Dados" alt="Typing SVG" />
-  </a>
+  <h3>👨‍💻 Desenvolvedor Back-end em formação | Python, Java e SQL</h3>
 </div>
 
 ---
